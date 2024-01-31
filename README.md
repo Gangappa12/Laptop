@@ -1,1 +1,1 @@
-Laptop used for documentaion work.
+Laptop used for documentation work.
