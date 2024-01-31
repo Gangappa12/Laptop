@@ -1,0 +1,139 @@
+http://10.210.4.181/confluence
+the “admin” password is confDEV@1234
+
+Use the Jira Cloud Migration Assistant to migrate | Atlassian Support
+https://support.atlassian.com/migration/docs/use-the-jira-cloud-migration-assistant-to-migrate/
+
+
+Use the Confluence Cloud Migration Assistant to migrate | Atlassian Support
+https://support.atlassian.com/migration/docs/use-the-confluence-cloud-migration-assistant-to-migrate/
+
+
+jira and confluence GEHC
+https://ge-hc.atlassian.net/jira/your-work
+password of HC atlasian- g123456fgangah
+
+
+gmail - swetashree362@gmail.com - Lisa@1234
+other one - swetashree.acharya@tcs.com - Liscon@1234
+
+For importing the attachments using CSV file method
+https://confluence.atlassian.com/cloudkb/importing-attachments-into-jira-cloud-using-csv-external-system-importer-966669960.html
+
+how to create api token
+https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/
+
+Api token link
+https://id.atlassian.com/manage-profile/security/api-tokens
+
+
+ATATT3xFfGF0FufkRZznd-xEmfMlG-LiBdD9zCqGIjuuw0k1gKaTqcqklkBAnsVjKALJ4xbBvnWAwgNLylMAZ4JMjuVtUfnf19Zxn6UMuOJbXKJzHQHuFrHQChBcUt1A5shkNWbNLQIMhOvTgbULvbJwnoWve9qbjPIwdb6VSKtr-KwdzBY73kQ=DB8A2321
+
+curl --request GET \
+  --url 'https://https://ge-hc.atlassian.net/jira/software/c/projects/GEHC/boards/5.atlassian.net/rest/api/3/user/permission/search?query=query&permissions={permissions}' \
+  --user 'gangappa.hubballi@ge.com:ATATT3xFfGF0FufkRZznd-xEmfMlG-LiBdD9zCqGIjuuw0k1gKaTqcqklkBAnsVjKALJ4xbBvnWAwgNLylMAZ4JMjuVtUfnf19Zxn6UMuOJbXKJzHQHuFrHQChBcUt1A5shkNWbNLQIMhOvTgbULvbJwnoWve9qbjPIwdb6VSKtr-KwdzBY73kQ=DB8A2321' \
+  --header 'Accept: application/json'
+
+
+
+
+
+
+
+
+jfrog link
+https://jfrog.com/help/r/jfrog-artifactory-documentation/import-and-export
+
+JIRA source link
+https://hc-us-east-aws-artifactory.cloud.health.ge.com/artifactory/maven-persona-apps-release/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://devcloud.swcoe.ge.com/devspace/display/CONNAPP
+
+100000135
+
+232349-AWQD
+002938-QCKZX
+target- 
+010804-ENHXX
+https://devcloud.swcoe.ge.com/devspace/display/ENHXX
+target -http://10.210.4.181/confluence/display/ENHXX/HIT+IxD
+
+https://devcloud.swcoe.ge.com/devspace/display/ACICU
+013555-ACICU
+target-http://10.210.4.181/confluence/display/ACICU/Home
+
+https://devcloud.swcoe.ge.com/devspace/display/ATAM
+023827-ATAM
+target-http://10.210.4.181/confluence/display/ATAM/Home
+
+
+https://devcloud.swcoe.ge.com/devspace/display/CONNAPP
+025849-CONNAPP
+target-http://10.210.4.181/confluence/display/CONNAPP/Home
+There are currently no attachments in this space.
+
+https://devcloud.swcoe.ge.com/devspace/display/CSESIEBEL
+033038-CSESIEBEL
+target-http://10.210.4.181/confluence/display/CSESIEBEL/Home
+
+https://devcloud.swcoe.ge.com/devspace/display/GEHCALM
+005300-
+target-http://10.210.4.181/confluence/display/GEHCALM/GE+Healthcare+ALM+Home
+
+https://devcloud.swcoe.ge.com/devspace/display/HAYSTACK
+020831
+target-
+
+https://devcloud.swcoe.ge.com/devspace/display/PDPPIS
+033005
+
+
+https://devcloud.swcoe.ge.com/devspace/display/wbUltrasound
+011358-
+target-
+1:35 to 1:39  --3 users added
+Vaidya, Vivek not found
+
+https://devcloud.swcoe.ge.com/devspace/display/BXESK
+025324
+target-
+
+https://devcloud.swcoe.ge.com/devspace/display/NLCLR
+034413
+https://devcloud.swcoe.ge.com/devspace/display/ENHXX
+040703
+
+https://devcloud.swcoe.ge.com/devspace/display/OGECP
+043407
+
+gliffy(addons, daigrams)
+
+
+deleted Space
+autotest 
+LACJB
+QCKZX
+
+
+
+
